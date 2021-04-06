@@ -1,0 +1,52 @@
+html
+{
+    color: #000;
+    display: block;
+    background-color: #000000;
+}
+head
+{
+    display: none;
+}
+body
+{
+    font: 20px/1.231 arial, helvetica, clean, sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 13px;
+    line-height: 1.231;
+    font-family: arial, helvetica, clean, serif;
+}
+body
+{
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+body
+{
+    background-image: url('https://media.giphy.com/media/26gsc4uOuzVSE2otG/giphy.gif');
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 720px;
+    margin: 10px;
+    height: 20px;
+}
+h1
+{
+    font-size: 23px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FF0000;
+    letter-spacing: 2px;
+    text-align: center;
+}
+img
+{
+    position: center;
+}
