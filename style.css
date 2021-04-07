@@ -46,6 +46,23 @@ h1
     letter-spacing: 2px;
     text-align: center;
 }
+h2
+{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FF0000;
+    letter-spacing: 2px;
+    text-align: left;
+    margin-left: 500px;
+}
+p
+{
+    margin-left: 500px;
+    font-weight: bold;
+    color: #FFF;
+    letter-spacing: 2px;
+    text-align: left;
+}
 img
 {
     position: center;
